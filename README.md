@@ -38,10 +38,6 @@ Through this task, I learned how to use design tools to present information crea
 
 * Digital Literacy Infographic (exported image/PDF)
 
-Great 👍 Here is the **README.md content for Task 2** (same clean format):
-
----
-
 # Task 2: Student Digital Portfolio
 
 ## Overview
