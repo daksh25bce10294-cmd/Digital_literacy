@@ -84,7 +84,7 @@ In this task, I explored coding practice and collaboration tools to understand t
 
 * HackerRank (Coding Practice)
 * Google Forms & Google Sheets (Collaboration Tool)
-* Google Quiz Link : https://docs.google.com/forms/d/e/1FAIpQLSdRoe6oCLWEj8j5Oi2kHn1XFiOLMaUEMfLlGhbpZGKalt0HnA/viewform?usp=publish-editor
+* Google Quiz Link : https://forms.gle/DiHWUVVbp1bmuBMx9
 
 ## Work Done
 
