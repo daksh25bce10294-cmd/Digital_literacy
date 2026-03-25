@@ -53,6 +53,7 @@ I created and updated profiles on the following platforms:
 
 * Created a GitHub profile and added a basic README with my details
 * Updated LinkedIn with education information
+* created a kaggle account for education Purpose
 * Created a HackerRank account for coding practice
 
 ## Objective
