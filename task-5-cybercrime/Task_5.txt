@@ -2,8 +2,8 @@ Stay Safe Online – UPI & Cybercrime Prevention Checklist
 
 Do’s
 
- Always verify the sender before approving any UPI request or payment.
- Read carefully: “Pay” vs “Receive” on UPI apps before entering your PIN.
+Always verify the sender before approving any UPI request or payment.
+Read carefully: “Pay” vs “Receive” on UPI apps before entering your PIN.
 Enable app lock, device lock, and SMS/email alerts for all transactions.
 Use only official apps like bank apps or trusted UPI apps from app stores.
 Regularly check your bank statements and transaction history.
@@ -21,7 +21,9 @@ Never approve a collect request unless you are sure you are paying.
 Avoid using public Wi-Fi for financial transactions.
 Do not store sensitive banking info in notes or messages on your phone.
 Don’t ignore small unauthorized transactions—they can indicate fraud.
- Report Cybercrime Immediately
+
+ 
+Report Cybercrime Immediately
 
 
  National Cyber Crime Portal: https://cybercrime.gov.in
