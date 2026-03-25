@@ -2,11 +2,8 @@
  This repository showcases tasks on digital awareness, online safety, professional communication, coding platforms, and cybercrime prevention, demonstrating essential skills required to navigate the digital world responsibly.
 
 name : Daksh Amitkumar Gandhi
+
 registation No : 25BCE10294
-
-Here is the **final clean content** for your **Task 1 README.md** (ready to copy-paste):
-
----
 
 # Task 1: Digital Literacy Awareness Infographic
 
